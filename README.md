@@ -10,7 +10,7 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=
 DB_DATABASE=your_db
-
+... ``` ` 
 
 
 1. Install Dependencies
