@@ -12,18 +12,29 @@ DB_PASSWORD=
 DB_DATABASE=your_db
 ```
 
-## Setup Dependencies
+## Installation
 1. Install Dependencies
+```
 npm install
+```
 
-2. Run Init DB
-npm run init-db
+## Setup
 
-3. Run Unit Test
-npm test
+1. Run Init DB
+```
+ npm run init-db
+```
 
 
 ## RUN Project 
+
+1. Unit Test
+```
+npm test
+```
+2. Project
+```
 npm run dev
+```
 
 
